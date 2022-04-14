@@ -2,11 +2,9 @@
 
 - 🤨 Atualmente trabalho com aprendiz na Coca-Cola FEMSA ...
 
-- 🤓 Estou aprendo sobre Shell Script, Python e JavaScript ...
+- 🤓 Estou aprendendo sobre Shell Script e Python ...
 
-- 🤔 Curiosidade: Amo pudim 🍮 ...
-
-🧐 01000101 01110101 00100000 01100001 01101101 01101111 00100000 01101111 00100000 01001100 01101001 01101110 01110101 01111000 
+- 🧐 01001000 01100101 01101100 01101100 01101111 00101100 00100000 01010111 01101111 01110010 01101100 01100100
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGuilhermeAlves&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuilhermeAlves&hide=javascript,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,5 +21,4 @@
 👨👩 Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-alves-soares-de-melo-595b831a8/)
 
-![image](https://thumbs.gfycat.com/LimpingCraftyAfricanfisheagle.webp)
 
