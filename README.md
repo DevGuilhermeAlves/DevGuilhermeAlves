@@ -21,4 +21,8 @@
 👨👩 Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-alves-soares-de-melo-595b831a8/)
 
-
+Conhecimentos:
+Configuração e instalação Ubuntu Server, Windows Server e Red Hat enterprise Linux.
+Montagem de servidor virtualizado com o proxmox
+Configuração e mapeamento de pastas de redes
+HTML
