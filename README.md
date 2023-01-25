@@ -1,8 +1,6 @@
 ### Olá me chamo Guilherme 🤖
 
-- 🤨 Atualmente trabalho como aprendiz na Coca-Cola FEMSA ...
-
-- 🤓 Estou aprendendo sobre Shell Script e Python ...
+- 🤓 Gosto de automatizar ás coisas no meu Linux/Windows
 
 - 🧐 01001000 01100101 01101100 01101100 01101111 00101100 00100000 01010111 01101111 01110010 01101100 01100100
 
